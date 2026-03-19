@@ -15,12 +15,11 @@
 
 ## About Me
 
-I architect and ship mobile experiences at scale. Over the past 12 years I've worked across **fintech, health & wellness, and retail** — building iOS apps that reach millions of users while maintaining the code quality and team standards expected at Apple, Citibank, and Albertsons.
+I architect and ship mobile experiences at scale. Over the past 12 years I've worked across **fintech, health & wellness, and retail** — building 
+iOS apps that reach millions of users while maintaining the code quality and team standards expected at Apple, Citibank, and Albertsons.
 
-Currently leading iOS development for **Sincerely Health** at Albertsons Companies — a health platform spanning 16+ retail brands including Safeway, Vons, and Shaw's.
-
-I also build independently. My latest app **Resumify** is a cross-platform AI-powered resume builder (Flutter + OpenAI) live on both the App Store and Google Play.
-
+I actively integrate AI into mobile development — working with OpenAI, Core ML, and Firebase ML Kit to build intelligent, on-device experiences. 
+I use GitHub Copilot and LLM-powered workflows daily to accelerate development and ship higher quality code faster.
 ---
 
 ## Tech Stack
@@ -59,14 +58,13 @@ Fastlane · Jenkins · Bitrise · TestFlight · Firebase Crashlytics · XCTest
 | **Sincerely Health** (Albertsons) | Staff Mobile Engineer | SwiftUI, HealthKit, Redux | 16+ retail brands, Apple Watch integration, rewards system |
 | **Citibank iOS App** | Senior iOS Engineer | UIKit → SwiftUI, OAuth2 | KYC & onboarding migration, certificate pinning, fintech compliance |
 | **Apple Backstage App** | Senior iOS Engineer | UIKit, Xcode Profiling | Internal tooling used globally across Apple Stores |
-| **Resumify** *(personal)* | Solo Founder & Developer | Flutter, OpenAI API | AI resume builder — live on App Store & Google Play |
 
 ---
 
 ## Experience Timeline
 
 ```
-2024 – 2026  →  Staff Mobile Engineer, Albertsons Companies
+2024 – 2026     →  Staff Mobile Engineer, Albertsons Companies
 2021 – 2024     →  Senior iOS Engineer, NTT Data (Client: Citibank)
 2021            →  Senior iOS Engineer, Cognizant (Client: Apple)
 2020 – 2021     →  Associate Manager iOS, Duck Creek Technologies
@@ -79,8 +77,8 @@ Fastlane · Jenkins · Bitrise · TestFlight · Firebase Crashlytics · XCTest
 ## Currently
 
 - 🏗  Building health & wellness features for millions of users at Albertsons
-- 📱  Maintaining and improving **Resumify** — my AI-powered resume builder
 - 🤖  Integrating LLMs and on-device ML into production iOS apps
+- 🧠  Exploring AI-first mobile experiences with OpenAI, Core ML and on-device inference
 - 🇺🇸  Based in the US — open to senior/staff remote or hybrid roles
 
 ---
