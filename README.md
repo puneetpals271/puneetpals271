@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-puneetpal.dev-black?style=flat-square&logo=safari&logoColor=white)](https://puneetpal.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-puneet271-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/puneet271)
-[![Email](https://img.shields.io/badge/Email-puneetpalsingh91@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:puneetpalsingh91@gmail.com)
+[![Email](https://img.shields.io/badge/Email-puneetpalsingh91@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:puneet@wedevelopers.us)
 
 </div>
 
