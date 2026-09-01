@@ -3,11 +3,11 @@
 # Puneetpal Arneja
 ### Senior iOS & Mobile Architect
 
-*12+ years shipping mobile products used by millions — Apple, Citibank, Albertsons*
+*13+ years shipping mobile products used by millions — Apple, Citibank, Albertsons*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-puneetpal.dev-black?style=flat-square&logo=safari&logoColor=white)](https://puneetpal.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-puneet271-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/puneet271)
-[![Email](https://img.shields.io/badge/Email-puneetpalsingh91@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:puneet@wedevelopers.us)
+[![Email](https://img.shields.io/badge/Email-puneet@wedevelopers.us-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:puneet@wedevelopers.us)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I architect and ship mobile experiences at scale. Over the past 12 years I've worked across **fintech, health & wellness, and retail** — building 
+I architect and ship mobile experiences at scale. Over the past 13 years I've worked across **fintech, health & wellness, and retail** — building 
 iOS apps that reach millions of users while maintaining the code quality and team standards expected at Apple, Citibank, and Albertsons.
 
 I actively integrate AI into mobile development — working with OpenAI, Core ML, and Firebase ML Kit to build intelligent, on-device experiences. 
