@@ -55,9 +55,24 @@ Fastlane · Jenkins · Bitrise · TestFlight · Firebase Crashlytics · XCTest
 
 | Project | Role | Stack | Highlights |
 |---|---|---|---|
-| **Sincerely Health** (Albertsons) | Staff Mobile Engineer | SwiftUI, HealthKit, Redux | 16+ retail brands, Apple Watch integration, rewards system |
+| **Sincerely Health** (Albertsons) | Staff Mobile Engineer | SwiftUI, HealthKit, Redux | 16 retail brands, Apple Watch integration, rewards system |
 | **Citibank iOS App** | Senior iOS Engineer | UIKit → SwiftUI, OAuth2 | KYC & onboarding migration, certificate pinning, fintech compliance |
 | **Apple Backstage App** | Senior iOS Engineer | UIKit, Xcode Profiling | Internal tooling used globally across Apple Stores |
+
+---
+
+## Latest Writing
+
+Practical guides on iOS, SwiftUI and Laravel APIs for mobile apps, from [puneetpal.dev/insights](https://puneetpal.dev/insights).
+
+<!-- BLOG-POST-LIST:START -->
+- [Laravel Sanctum vs Passport for Mobile Apps (2026)](https://puneetpal.dev/insights/laravel-sanctum-vs-passport-mobile-apps-2026)
+- [Laravel API for Mobile Apps: Backend Design Guide (2026)](https://puneetpal.dev/insights/laravel-backend-for-mobile-apps-2026)
+- [Flutter vs React Native in 2026: A Decision Framework](https://puneetpal.dev/insights/flutter-vs-react-native-2026)
+- [UIKit to SwiftUI Migration: 2026 Playbook with Code](https://puneetpal.dev/insights/swiftui-migration-playbook-2026)
+- [Laravel API Security Checklist 2026 for Mobile Apps](https://puneetpal.dev/insights/laravel-api-security-checklist-2026)
+- [How Much Does an iOS App Cost in 2026?](https://puneetpal.dev/insights/ios-app-cost-2026)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -79,7 +94,7 @@ Fastlane · Jenkins · Bitrise · TestFlight · Firebase Crashlytics · XCTest
 - 🏗  Building health & wellness features for millions of users at Albertsons
 - 🤖  Integrating LLMs and on-device ML into production iOS apps
 - 🧠  Exploring AI-first mobile experiences with OpenAI, Core ML and on-device inference
-- 🇺🇸  Based in the US — open to senior/staff remote or hybrid roles
+- 🇺🇸  Based in Dallas–Fort Worth, open to senior/staff remote, hybrid or onsite roles
 
 ---
 
