@@ -66,12 +66,12 @@ Fastlane · Jenkins · Bitrise · TestFlight · Firebase Crashlytics · XCTest
 Practical guides on iOS, SwiftUI and Laravel APIs for mobile apps, from [puneetpal.dev/insights](https://puneetpal.dev/insights).
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Sanctum vs Passport for Mobile Apps (2026)](https://puneetpal.dev/insights/laravel-sanctum-vs-passport-mobile-apps-2026)
-- [Laravel API for Mobile Apps: Backend Design Guide (2026)](https://puneetpal.dev/insights/laravel-backend-for-mobile-apps-2026)
-- [Flutter vs React Native in 2026: A Decision Framework](https://puneetpal.dev/insights/flutter-vs-react-native-2026)
-- [UIKit to SwiftUI Migration: 2026 Playbook with Code](https://puneetpal.dev/insights/swiftui-migration-playbook-2026)
-- [Laravel API Security Checklist 2026 for Mobile Apps](https://puneetpal.dev/insights/laravel-api-security-checklist-2026)
-- [How Much Does an iOS App Cost in 2026?](https://puneetpal.dev/insights/ios-app-cost-2026)
+- [Laravel Sanctum vs Passport for Mobile Apps &lpar;2026&rpar;](https://puneetpal.dev/insights/laravel-sanctum-vs-passport-mobile-apps-2026)
+- [Laravel API for Mobile Apps: Backend Design Guide &lpar;2026&rpar;](https://puneetpal.dev/insights/laravel-backend-for-mobile-apps-2026)
+- [White-Label iOS Architecture: One Codebase, Many Brands](https://puneetpal.dev/insights/white-label-ios-architecture-2026)
+- [What a Flutter App Costs in 2026](https://puneetpal.dev/insights/flutter-app-cost-2026)
+- [React Native App Development Cost in 2026](https://puneetpal.dev/insights/react-native-app-cost-2026)
+- [How Long Does It Take to Build an iOS App? &lpar;2026 Timeline&rpar;](https://puneetpal.dev/insights/ios-app-development-timeline-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
