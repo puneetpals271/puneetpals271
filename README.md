@@ -66,12 +66,12 @@ Fastlane · Jenkins · Bitrise · TestFlight · Firebase Crashlytics · XCTest
 Practical guides on iOS, SwiftUI and Laravel APIs for mobile apps, from [puneetpal.dev/insights](https://puneetpal.dev/insights).
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure Authentication Best Practices for Fintech Apps &lpar;2026&rpar;](https://puneetpal.dev/insights/secure-authentication-fintech-apps-2026)
 - [Laravel Sanctum vs Passport for Mobile Apps &lpar;2026&rpar;](https://puneetpal.dev/insights/laravel-sanctum-vs-passport-mobile-apps-2026)
 - [Laravel API for Mobile Apps: Backend Design Guide &lpar;2026&rpar;](https://puneetpal.dev/insights/laravel-backend-for-mobile-apps-2026)
 - [React Native App Development Cost in 2026](https://puneetpal.dev/insights/react-native-app-cost-2026)
 - [White-Label iOS Architecture: One Codebase, Many Brands](https://puneetpal.dev/insights/white-label-ios-architecture-2026)
 - [What a Flutter App Costs in 2026](https://puneetpal.dev/insights/flutter-app-cost-2026)
-- [How Long Does It Take to Build an iOS App? &lpar;2026 Timeline&rpar;](https://puneetpal.dev/insights/ios-app-development-timeline-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
